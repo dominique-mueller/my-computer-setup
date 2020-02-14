@@ -39,14 +39,15 @@ The following is general software.
 
 The following is software for gaming purposes.
 
-| Name                                                                | Description                    |
-| ------------------------------------------------------------------- | ------------------------------ |
-| **[Steam](https://store.steampowered.com/about/)**                  | Steam Gaming Client            |
-| **[Uplay](https://uplay.ubisoft.com/)**                             | Uplay Gaming Client            |
-| **[Origin](https://www.origin.com/)**                               | Origin Gaming Client           |
-| **[Epic Games Launcher](https://www.epicgames.com/store/download)** | Epic Games Client              |
-| **[Teamspeak](https://www.teamspeak.de/download/)**                 | Voice and Text Chat for Gaming |
-| **[Discord](https://discordapp.com/download)**                      | Voice and Text Chat for Gaming |
+| Name                                                                              | Description                    |
+| --------------------------------------------------------------------------------- | ------------------------------ |
+| **[Steam](https://store.steampowered.com/about/)**                                | Steam Gaming Client            |
+| **[Uplay](https://uplay.ubisoft.com/)**                                           | Uplay Gaming Client            |
+| **[Origin](https://www.origin.com/)**                                             | Origin Gaming Client           |
+| **[Epic Games Launcher](https://www.epicgames.com/store/download)**               | Epic Games Client              |
+| **[Battle.net Launcher](https://www.blizzard.com/de-de/apps/battle.net/desktop)** | Battle.net Client              |
+| **[Teamspeak](https://www.teamspeak.de/download/)**                               | Voice and Text Chat for Gaming |
+| **[Discord](https://discordapp.com/download)**                                    | Voice and Text Chat for Gaming |
 
 <br>
 
