@@ -32,6 +32,7 @@ The following is general software.
 | **[Spotify](https://www.spotify.com/de/download/other/)**                                    | Spotify Music Client                                        |
 | **[Virtual Clone Drive](https://www.elby.ch/de/products/vcd.html)**                          | Mount images into the Explorer                              |
 | **[Windows 10 Brightness Slider](https://github.com/blackholeearth/Win10_BrightnessSlider)** | Brightness Slider for Desktop Computers                     |
+| **[Win Dynamic Desktop](https://github.com/t1m0thyj/WinDynamicDesktop)**                     | Dynamic Desktop feature from MacOS for Windows              |
 | **[Zoom](https://zoom.us/download)**                                                         | Zoom Video Conferencing Client                              |
 
 <br>
