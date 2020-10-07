@@ -57,13 +57,3 @@ The following is software for gaming purposes.
 ### Development
 
 See **[my development setup](https://github.com/dominique-mueller/my-development-setup)**.
-
-<br><br><br>
-
-## Creator
-
-**Dominique Müller**
-
-- E-Mail: **[dominique.m.mueller@gmail.com](mailto:dominique.m.mueller@gmail.com)**
-- Website: **[www.devdom.io](https://www.devdom.io/)**
-- Twitter: **[@itsdevdom](https://twitter.com/itsdevdom)**
