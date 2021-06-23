@@ -27,13 +27,22 @@ The following is general software.
 | **[Media Player Classic](https://mpc-hc.org/)**                                              | The fastest yet full-packed media player (audio, video)     |
 | **[Microsoft Office 365](https://products.office.com/de-de/explore-office-for-home)**        | Good'old office                                             |
 | **[NetSpeedMonitor](https://www.heise.de/download/product/netspeedmonitor-35095)**           | Display download and upload rates in the taskbar            |
-| **[paint.net](https://www.getpaint.net/download.html)**                                      | Simple photo editor                                         |
+| **[Paint.NET](https://www.getpaint.net/download.html)**                                      | Simple photo editor                                         |
 | **[Slack](https://slack.com/intl/de-de/downloads/windows)**                                  | Team Communication Tool                                     |
 | **[Spotify](https://www.spotify.com/de/download/other/)**                                    | Spotify Music Client                                        |
 | **[Virtual Clone Drive](https://www.elby.ch/de/products/vcd.html)**                          | Mount images into the Explorer                              |
 | **[Windows 10 Brightness Slider](https://github.com/blackholeearth/Win10_BrightnessSlider)** | Brightness Slider for Desktop Computers                     |
 | **[Win Dynamic Desktop](https://github.com/t1m0thyj/WinDynamicDesktop)**                     | Dynamic Desktop feature from MacOS for Windows              |
 | **[Zoom](https://zoom.us/download)**                                                         | Zoom Video Conferencing Client                              |
+
+#### Paint.NET Plugins
+
+| Name                                                                                                                                         | Description                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| **[IcoCur](https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/page/13/?tab=comments#comment-514467)** | Adds support for `.ico` files |
+| **[SvgFileType](https://github.com/otuncelli/Scalable-Vector-Graphics-Plugin-for-Paint.NET)**                                                | Adds support for `.svg` files |
+
+> Plugins (`.dll` files) for file type support are placed into the `C:\Program Files\paint.net\FileTypes` folder
 
 <br>
 
