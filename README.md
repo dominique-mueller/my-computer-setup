@@ -22,7 +22,7 @@ The following is general software.
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | **[7-Zip](https://www.7-zip.de/)**                                                           | File archiver (zip, rar, iso, ...)                          |
 | **[Adobe Creative Cloud](https://www.adobe.com/de/creativecloud.html)**                      | Adobe Creative Cloud (esp. XD, After Effects, Premiere Pro) |
-| **[Backup and Sync from Google](https://www.google.com/drive/download/backup-and-sync/)**    | Google Drive Integration into Explorer                      |
+| **[Backup and Sync from Google](https://www.google.com/drive/download)**                     | Google Drive Sync                                           |
 | **[ExpressVPN](https://www.expressvpn.com/de/vpn-software/vpn-windows)**                     | VPN connection                                              |
 | **[Media Player Classic](https://mpc-hc.org/)**                                              | The fastest yet full-packed media player (audio, video)     |
 | **[Microsoft Office 365](https://products.office.com/de-de/explore-office-for-home)**        | Good'old office                                             |
