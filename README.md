@@ -18,22 +18,22 @@ The following is a list of Software I usually install on my computers.
 
 The following is general software.
 
-| Name                                                                                         | Description                                                 |
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| **[7-Zip](https://www.7-zip.de/)**                                                           | File archiver (zip, rar, iso, ...)                          |
-| **[Adobe Creative Cloud](https://www.adobe.com/de/creativecloud.html)**                      | Adobe Creative Cloud (esp. XD, After Effects, Premiere Pro) |
-| **[Backup and Sync from Google](https://www.google.com/drive/download)**                     | Google Drive Sync                                           |
-| **[ExpressVPN](https://www.expressvpn.com/de/vpn-software/vpn-windows)**                     | VPN connection                                              |
-| **[Media Player Classic](https://mpc-hc.org/)**                                              | The fastest yet full-packed media player (audio, video)     |
-| **[Microsoft Office 365](https://products.office.com/de-de/explore-office-for-home)**        | Good'old office                                             |
-| **[NetSpeedMonitor](https://www.heise.de/download/product/netspeedmonitor-35095)**           | Display download and upload rates in the taskbar            |
-| **[Paint.NET](https://www.getpaint.net/download.html)**                                      | Simple photo editor                                         |
-| **[Slack](https://slack.com/intl/de-de/downloads/windows)**                                  | Team Communication Tool                                     |
-| **[Spotify](https://www.spotify.com/de/download/other/)**                                    | Spotify Music Client                                        |
-| **[Virtual Clone Drive](https://www.elby.ch/de/products/vcd.html)**                          | Mount images into the Explorer                              |
-| **[Windows 10 Brightness Slider](https://github.com/blackholeearth/Win10_BrightnessSlider)** | Brightness Slider for Desktop Computers                     |
-| **[Win Dynamic Desktop](https://github.com/t1m0thyj/WinDynamicDesktop)**                     | Dynamic Desktop feature from MacOS for Windows              |
-| **[Zoom](https://zoom.us/download)**                                                         | Zoom Video Conferencing Client                              |
+| Name                                                                                           | Description                                                 |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **[7-Zip](https://www.7-zip.de/)**                                                             | File archiver (zip, rar, iso, ...)                          |
+| **[Adobe Creative Cloud](https://www.adobe.com/de/creativecloud.html)**                        | Adobe Creative Cloud (esp. XD, After Effects, Premiere Pro) |
+| **[Backup and Sync from Google](https://www.google.com/drive/download)**                       | Google Drive Sync                                           |
+| **[ExpressVPN](https://www.expressvpn.com/de/vpn-software/vpn-windows)**                       | VPN connection                                              |
+| **[Media Player Classic](https://github.com/clsid2/mpc-hc) ([original](https://mpc-hc.org/))** | The fastest media player (audio, video)                     |
+| **[Microsoft Office 365](https://products.office.com/de-de/explore-office-for-home)**          | Good'old office                                             |
+| **[NetSpeedMonitor](https://www.heise.de/download/product/netspeedmonitor-35095)**             | Display download and upload rates in the taskbar            |
+| **[Paint.NET](https://www.getpaint.net/download.html)**                                        | Simple photo editor                                         |
+| **[Slack](https://slack.com/intl/de-de/downloads/windows)**                                    | Team Communication Tool                                     |
+| **[Spotify](https://www.spotify.com/de/download/other/)**                                      | Spotify Music Client                                        |
+| **[Virtual Clone Drive](https://www.elby.ch/de/products/vcd.html)**                            | Mount images into the Explorer                              |
+| **[Windows 10 Brightness Slider](https://github.com/blackholeearth/Win10_BrightnessSlider)**   | Brightness Slider for Desktop Computers                     |
+| **[Win Dynamic Desktop](https://github.com/t1m0thyj/WinDynamicDesktop)**                       | Dynamic Desktop feature from MacOS for Windows              |
+| **[Zoom](https://zoom.us/download)**                                                           | Zoom Video Conferencing Client                              |
 
 #### Paint.NET Plugins
 
