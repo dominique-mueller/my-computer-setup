@@ -26,7 +26,6 @@ The following is must-have software I install on every computer.
 | **[ExpressVPN](https://www.expressvpn.com/de/vpn-software/vpn-windows)**                                 | VPN connection                                                                    |
 | **[Media Player Classic](https://github.com/clsid2/mpc-hc) ([original](https://mpc-hc.org))**           | The fastest media player (audio, video)                                           |
 | **[Microsoft Office 365](https://www.microsoft.com/de-de/microsoft-365/explore-microsoft-365-for-home)** | Good'old office (e.g. Word, Excel, PowerPoint, Outlook)                           |
-| **[NetSpeedMonitor](https://www.heise.de/download/product/netspeedmonitor-35095)**                       | Display download and upload rates as taskbar toolbar                              |
 | **[Paint.NET](https://www.getpaint.net/download.html)**                                                  | Simple photo editor                                                               |
 | **[Process Priority Saver](https://www.prnwatch.com/prio/)**                                             | Save process priorities in Task Manager                                           |
 | **[Spotify](https://www.spotify.com/de/download)**                                                       | Spotify                                                                           |
@@ -51,7 +50,6 @@ The following is software I might decide to install, or need for specific situat
 | **[Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/download-app)**          | Team Communication Tool                        |
 | **[Slack](https://slack.com/intl/de-de/downloads/windows)**                                  | Team Communication Tool                        |
 | **[Virtual Clone Drive](https://www.elby.ch/de/products/vcd.html)**                          | Mount images into the Explorer                 |
-| **[Windows 10 Brightness Slider](https://github.com/blackholeearth/Win10_BrightnessSlider)** | Brightness Slider for Desktop Computers        |
 | **[Win Dynamic Desktop](https://github.com/t1m0thyj/WinDynamicDesktop)**                     | Dynamic Desktop feature from MacOS for Windows |
 | **[Zoom](https://zoom.us/download)**                                                         | Zoom Video Conferencing Client                 |
 
