@@ -18,18 +18,18 @@ The following is a list of Software I usually install on my computers.
 
 The following is must-have software I install on every computer.
 
-| Name                                                                                           | Description                                                                       |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **[7-Zip](https://7-zip.org/)**                                                                | File archiver (zip, rar, iso, ...)                                                |
-| **[Adobe Creative Cloud](https://www.adobe.com/de/creativecloud.html)**                        | Adobe Creative Cloud (e.g. Photoshop, Lightroom, XD, After Effects, Premiere Pro) |
-| **[Backup and Sync from Google](https://www.google.com/drive/download)**                       | Google Drive Sync                                                                 |
-| **[ExpressVPN](https://www.expressvpn.com/de/vpn-software/vpn-windows)**                       | VPN connection                                                                    |
-| **[Media Player Classic](https://github.com/clsid2/mpc-hc) ([original](https://mpc-hc.org/))** | The fastest media player (audio, video)                                           |
-| **[Microsoft Office 365](https://products.office.com/de-de/explore-office-for-home)**          | Good'old office (e.g. Word, Excel, PowerPoint, Outlook)                           |
-| **[NetSpeedMonitor](https://www.heise.de/download/product/netspeedmonitor-35095)**             | Display download and upload rates as taskbar toolbar                              |
-| **[Paint.NET](https://www.getpaint.net/download.html)**                                        | Simple photo editor                                                               |
-| **[Process Priority Saver](https://www.prnwatch.com/prio/)**                                   | Save process priorities in Task Manager                                           |
-| **[Spotify](https://www.spotify.com/de/download)**                                             | Spotify                                                                           |
+| Name                                                                                                     | Description                                                                       |
+| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **[7-Zip](https://7-zip.org)**                                                                          | File archiver (zip, rar, iso, ...)                                                |
+| **[Adobe Creative Cloud](https://www.adobe.com/de/creativecloud.html)**                                  | Adobe Creative Cloud (e.g. Photoshop, Lightroom, XD, After Effects, Premiere Pro) |
+| **[Google Drive for Desktop](https://www.google.com/intl/de/drive/download/d)**                          | Google Drive Sync                                                                 |
+| **[ExpressVPN](https://www.expressvpn.com/de/vpn-software/vpn-windows)**                                 | VPN connection                                                                    |
+| **[Media Player Classic](https://github.com/clsid2/mpc-hc) ([original](https://mpc-hc.org))**           | The fastest media player (audio, video)                                           |
+| **[Microsoft Office 365](https://www.microsoft.com/de-de/microsoft-365/explore-microsoft-365-for-home)** | Good'old office (e.g. Word, Excel, PowerPoint, Outlook)                           |
+| **[NetSpeedMonitor](https://www.heise.de/download/product/netspeedmonitor-35095)**                       | Display download and upload rates as taskbar toolbar                              |
+| **[Paint.NET](https://www.getpaint.net/download.html)**                                                  | Simple photo editor                                                               |
+| **[Process Priority Saver](https://www.prnwatch.com/prio/)**                                             | Save process priorities in Task Manager                                           |
+| **[Spotify](https://www.spotify.com/de/download)**                                                       | Spotify                                                                           |
 
 #### Paint.NET Plugins
 
@@ -67,10 +67,10 @@ The following is software for gaming purposes.
 | **[Discord](https://discordapp.com/download)**                                                | Voice and Text Chat for Gaming |
 | **[Epic Games Launcher](https://www.epicgames.com/store/download)**                           | Epic Games Client              |
 | **[GOG Galaxy 2.0](https://www.gog.com/galaxy)**                                              | GOG Galaxy 2.0 Launcher        |
-| **[Origin](https://www.origin.com/)**                                                         | Origin Gaming Client           |
+| **[Origin](https://www.origin.com)**                                                         | Origin Gaming Client           |
 | **[Rockstar Game Launcher](https://de.socialclub.rockstargames.com/rockstar-games-launcher)** | Rockstar Game Launcher         |
-| **[Steam](https://store.steampowered.com/about/)**                                            | Steam Gaming Client            |
-| **[Uplay](https://uplay.ubisoft.com/)**                                                       | Uplay Gaming Client            |
+| **[Steam](https://store.steampowered.com/about)**                                            | Steam Gaming Client            |
+| **[Uplay](https://uplay.ubisoft.com)**                                                       | Uplay Gaming Client            |
 
 <br>
 
