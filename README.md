@@ -8,6 +8,14 @@ My personal computer setup, for Windows.
 
 <br><br>
 
+## Windows
+
+Other-than-simple configuration:
+
+- [Disable web search](https://pureinfotech.com/disable-search-web-results-windows-11#disable_web_results_gpedit_windows11)
+
+<br><br>
+
 ## Apps
 
 The following is a list of Software I usually install on my computers.
