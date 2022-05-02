@@ -35,7 +35,8 @@ The following is must-have software I install on every computer.
 | **[Media Player Classic](https://github.com/clsid2/mpc-hc) ([original](https://mpc-hc.org))**            | The fastest media player (audio, video)                                           |
 | **[Microsoft Office 365](https://www.microsoft.com/de-de/microsoft-365/explore-microsoft-365-for-home)** | Good'old office (e.g. Word, Excel, PowerPoint, Outlook)                           |
 | **[Paint.NET](https://www.getpaint.net/download.html)**                                                  | Simple photo editor                                                               |
-| **[Process Priority Saver](https://www.prnwatch.com/prio/)**                                             | Save process priorities in Task Manager                                           |
+| **[Process Lasso](https://bitsum.com/)**                                                                 | Save process priorities                                                           |
+| **[Process Priority Saver](https://www.prnwatch.com/prio/)**                                             | _DOES NOT WORK ON WINDOWS 11!_ Save process priorities                            |
 | **[Spotify](https://www.spotify.com/de/download)**                                                       | Spotify                                                                           |
 
 #### Paint.NET Plugins
