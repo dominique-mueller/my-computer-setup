@@ -30,7 +30,7 @@ The following is must-have software I install on every computer.
 | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | **[7-Zip](https://7-zip.org)**                                                                           | File archiver (zip, rar, iso, ...)                                                |
 | **[Adobe Creative Cloud](https://www.adobe.com/de/creativecloud.html)**                                  | Adobe Creative Cloud (e.g. Photoshop, Lightroom, XD, After Effects, Premiere Pro) |
-| **[Google Drive for Desktop](https://www.google.com/intl/de/drive/download/d)**                          | Google Drive Sync                                                                 |
+| **[Google Drive for Desktop](https://www.google.com/intl/de/drive/download)**                            | Google Drive Sync                                                                 |
 | **[ExpressVPN](https://www.expressvpn.com/de/vpn-software/vpn-windows)**                                 | VPN connection                                                                    |
 | **[Media Player Classic](https://github.com/clsid2/mpc-hc) ([original](https://mpc-hc.org))**            | The fastest media player (audio, video)                                           |
 | **[Microsoft Office 365](https://www.microsoft.com/de-de/microsoft-365/explore-microsoft-365-for-home)** | Good'old office (e.g. Word, Excel, PowerPoint, Outlook)                           |
