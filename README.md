@@ -10,7 +10,7 @@ My personal computer setup, for Windows.
 
 ## Windows
 
-Advanved configurations.
+Advanced configurations.
 
 <br>
 
@@ -25,69 +25,59 @@ Advanved configurations.
 
 ## Apps
 
-The following is a list of Software I usually install on my computers.
+The following is a list of software I usually install on my computer.
+
+| Name                              | Source                                                            | Description                                                                       |
+| --------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Google Chrome**                 | [Website](https://www.google.com/intl/de_de/chrome)               | Primary browser                                                                   |
+| **Microsoft PowerToys**           | [Store](https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD)   | Utilities                                                                         |
+| **Process Lasso** (paid)          | [Website](https://bitsum.com)                                     | Mainly interesting for pinning CPU priorities / affinities                        |
+| **7-Zip**                         | [Website](https://7-zip.org)                                      | File archiver (zip, rar, iso, ...)                                                |
+| **Notepad++**                     | [Website](https://notepad-plus-plus.org/downloads)                | Universal file editor                                                             |
+| **Media Player Classic**          | [Website](https://github.com/clsid2/mpc-hc)                       | The fastest media player (audio, video)                                           |
+| **Google Drive for Desktop**      | [Website](https://www.google.com/intl/de/drive/download)          | Google Drive Sync                                                                 |
+| **Adobe Creative Cloud**          | [Store](https://apps.microsoft.com/store/detail/XPDLPKWG9SW2WD)   | Adobe Creative Cloud (e.g. Photoshop, Lightroom, XD, After Effects, Premiere Pro) |
+| **Microsoft 365 Single (Office)** | [Store](https://www.microsoft.com/store/apps/CFQ7TTC0K5BF)        | Good'old office (e.g. Word, Excel, PowerPoint, Outlook)                           |
+| **Paint.NET**                     | [Website](https://www.getpaint.net/download.html)                 | Simple photo editor, perfect for quickly compressing images                       |
+| **Spotify**                       | [Store](https://www.microsoft.com/store/productId/9NCBCSZSJRSB)   | Spotify                                                                           |
+| **ExpressVPN**                    | [Website](https://www.expressvpn.com/de/vpn-software/vpn-windows) | VPN connection                                                                    |
+| **OBS Studio**                    | [Store](https://apps.microsoft.com/store/detail/XPFFH613W8V6LV)   | Streaming / Recording                                                             |
+| **Virtual Clone Drive**           | [Website](https://www.elby.ch/de/products/vcd.html)               | Mount images into the Explorer                                                    |
+| **Discord**                       | [Store](https://apps.microsoft.com/store/detail/XPDC2RH70K22MN)   | Game Messaging                                                                    |
+| **Whatsapp Desktop**              | [Store](https://www.microsoft.com/store/productId/9NKSQGP7F2NH)   | Private Messaging                                                                 |
+| **Telegram Desktop**              | [Store](https://www.microsoft.com/store/productId/9NZTWSQNTD0S)   | Private Messaging                                                                 |
+| **Slack**                         | [Store](https://www.microsoft.com/store/productId/9WZDNCRDK3WP)   | Work Messaging                                                                    |
+| **Zoom**                          | [Store](https://apps.microsoft.com/store/detail/XP99J3KP4XZ4VV)   | Work Video Conferencing Client                                                    |
+| **Microsoft Teams**               | [Store](https://apps.microsoft.com/store/detail/XP8BT8DW290MPQ)   | Work Messaging                                                                    |
 
 <br>
 
-### Must-have
+### Paint.NET Plugins:
 
-The following is must-have software I install on every computer.
-
-| Name                                                                                                     | Description                                                                       |
-| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| **[7-Zip](https://7-zip.org)**                                                                           | File archiver (zip, rar, iso, ...)                                                |
-| **[Adobe Creative Cloud](https://www.adobe.com/de/creativecloud.html)**                                  | Adobe Creative Cloud (e.g. Photoshop, Lightroom, XD, After Effects, Premiere Pro) |
-| **[Google Drive for Desktop](https://www.google.com/intl/de/drive/download)**                            | Google Drive Sync                                                                 |
-| **[ExpressVPN](https://www.expressvpn.com/de/vpn-software/vpn-windows)**                                 | VPN connection                                                                    |
-| **[Media Player Classic](https://github.com/clsid2/mpc-hc) ([original](https://mpc-hc.org))**            | The fastest media player (audio, video)                                           |
-| **[Microsoft Office 365](https://www.microsoft.com/de-de/microsoft-365/explore-microsoft-365-for-home)** | Good'old office (e.g. Word, Excel, PowerPoint, Outlook)                           |
-| **[Paint.NET](https://www.getpaint.net/download.html)**                                                  | Simple photo editor                                                               |
-| **[Process Lasso](https://bitsum.com/)**                                                                 | Save process priorities                                                           |
-| **[Process Priority Saver](https://www.prnwatch.com/prio/)**                                             | _DOES NOT WORK ON WINDOWS 11!_ Save process priorities                            |
-| **[Spotify](https://www.spotify.com/de/download)**                                                       | Spotify                                                                           |
-
-#### Paint.NET Plugins
-
-| Name                                                                                                                                         | Description                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| **[IcoCur](https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/page/13/?tab=comments#comment-514467)** | Adds support for `.ico` files |
-| **[SvgFileType](https://github.com/otuncelli/Scalable-Vector-Graphics-Plugin-for-Paint.NET)**                                                | Adds support for `.svg` files |
+| Name            | Source                                                                                                                                    | Description                   |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| **IcoCur**      | [Website](https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/page/13/?tab=comments#comment-514467) | Adds support for `.ico` files |
+| **SvgFileType** | [Website](https://github.com/otuncelli/Scalable-Vector-Graphics-Plugin-for-Paint.NET)                                                     | Adds support for `.svg` files |
 
 > Plugins (`.dll` files) for file type support are placed into the `C:\Program Files\paint.net\FileTypes` folder
 
-<br>
+<br><br>
 
-### Optional
+## Gaming Clients
 
-The following is software I might decide to install, or need for specific situations (like work).
+The following is a list of software used for gaming purposes.
 
-| Name                                                                                | Description                                    |
-| ----------------------------------------------------------------------------------- | ---------------------------------------------- |
-| **[Microsoft Teams](https://www.microsoft.com/de-de/microsoft-teams/download-app)** | Team Communication Tool                        |
-| **[Slack](https://slack.com/intl/de-de/downloads/windows)**                         | Team Communication Tool                        |
-| **[Virtual Clone Drive](https://www.elby.ch/de/products/vcd.html)**                 | Mount images into the Explorer                 |
-| **[Win Dynamic Desktop](https://github.com/t1m0thyj/WinDynamicDesktop)**            | Dynamic Desktop feature from MacOS for Windows |
-| **[Zoom](https://zoom.us/download)**                                                | Zoom Video Conferencing Client                 |
+| Name                    | Source                                                            | Description             |
+| ----------------------- | ----------------------------------------------------------------- | ----------------------- |
+| **Battle.net Launcher** | [Website](https://www.blizzard.com/de-de/apps/battle.net/desktop) | Battle.net Client       |
+| **Epic Games Launcher** | [Store](https://apps.microsoft.com/store/detail/XP99VR1BPSBQJ2)   | Epic Games Client       |
+| **EA App**              | [Website](https://www.ea.com/games/library/pc-download)           | EA Gaming Client        |
+| **Steam**               | [Website](https://store.steampowered.com/about)                   | Steam Gaming Client     |
+| **Ubisoft Connect**     | [Store](https://apps.microsoft.com/store/detail/XPDP2QW12DFSFK)   | Ubisoft Gaming Client   |
+| **GOG Galaxy 2.0**      | [Website](https://www.gog.com/galaxy)                             | GOG Galaxy 2.0 Launcher |
 
-<br>
+<br><br>
 
-### Gaming
-
-The following is software for gaming purposes.
-
-| Name                                                                                          | Description                    |
-| --------------------------------------------------------------------------------------------- | ------------------------------ |
-| **[Battle.net Launcher](https://www.blizzard.com/de-de/apps/battle.net/desktop)**             | Battle.net Client              |
-| **[Discord](https://discordapp.com/download)**                                                | Voice and Text Chat for Gaming |
-| **[Epic Games Launcher](https://www.epicgames.com/store/download)**                           | Epic Games Client              |
-| **[GOG Galaxy 2.0](https://www.gog.com/galaxy)**                                              | GOG Galaxy 2.0 Launcher        |
-| **[Origin](https://www.origin.com)**                                                          | Origin Gaming Client           |
-| **[Rockstar Game Launcher](https://de.socialclub.rockstargames.com/rockstar-games-launcher)** | Rockstar Game Launcher         |
-| **[Steam](https://store.steampowered.com/about)**                                             | Steam Gaming Client            |
-| **[Uplay](https://uplay.ubisoft.com)**                                                        | Uplay Gaming Client            |
-
-<br>
-
-### Development
+## Development
 
 See **[my development setup](https://github.com/dominique-mueller/my-development-setup)**.
