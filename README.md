@@ -10,9 +10,16 @@ My personal computer setup, for Windows.
 
 ## Windows
 
-Other-than-simple configuration:
+Advanved configurations.
 
-- [Disable web search](https://pureinfotech.com/disable-search-web-results-windows-11#disable_web_results_gpedit_windows11)
+<br>
+
+### Disable web search in start menu
+
+1. Open Group Policy Editor (`gpedit`)
+2. Navigate to "User Configuration" > "Administrative Templates" > "Windows Components" > "File Explorer"
+3. Open "Turn off display of recent search entries in the File Explorer search box" policy (double click)
+4. Select "Enabled", hit "Apply" and "OK"
 
 <br><br>
 
