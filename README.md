@@ -36,6 +36,7 @@ The following is a list of software I usually install on my computer.
 | **Notepad++**                   | [Website](https://notepad-plus-plus.org/downloads)                | Universal file editor                                                             |
 | **Media Player Classic**        | [Website](https://github.com/clsid2/mpc-hc)                       | The fastest media player (audio, video)                                           |
 | **Google Drive for Desktop**    | [Website](https://www.google.com/intl/de/drive/download)          | Google Drive Sync                                                                 |
+| **Obsidian**                    | [Website](https://obsidian.md)                                    | Knowledge management                                                              |
 | **Microsoft 365 Single** (paid) | [Store](https://www.microsoft.com/store/apps/CFQ7TTC0K5BF)        | Good'old office (e.g. Word, Excel, PowerPoint, Outlook)                           |
 | **Adobe Creative Cloud** (paid) | [Store](https://apps.microsoft.com/store/detail/XPDLPKWG9SW2WD)   | Adobe Creative Cloud (e.g. Photoshop, Lightroom, XD, After Effects, Premiere Pro) |
 | **Paint.NET**                   | [Website](https://www.getpaint.net/download.html)                 | Simple photo editor, perfect for quickly compressing images                       |
